@@ -1,4 +1,4 @@
-<img src="webdevelopment10.gif" align="right" alt="" width="1000" height="500">
+<img src="webdevelopment10.gif" align="right" alt="" width="300" height="194">
 <h1 align="center">Hi 👋, I'm Reza Amin</h1>
 <h3 align="center">A passionate backend developer from Iran</h3>
 
