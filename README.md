@@ -2,6 +2,8 @@
 <h1 align="center">Hi 👋, I'm Reza Amin</h1>
 <h3 align="center">A passionate backend developer from Iran</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=parsapap&label=Profile%20views&color=0e75b6&style=flat" alt="parsapap" /> </p>
+
 
 - 🌱 I’m currently learning **Python Django**
 
