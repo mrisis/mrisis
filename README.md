@@ -1,6 +1,7 @@
+<img src="animation1.gif" align="right" alt="">
 <h1 align="center">Hi 👋, I'm Reza Amin</h1>
 <h3 align="center">A passionate backend developer from Iran</h3>
-<img src="animation.gif.mp4" align="right" alt="">
+
 
 - 🌱 I’m currently learning **Python Django**
 
